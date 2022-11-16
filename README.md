@@ -1,8 +1,9 @@
 - 👋 Hi, I’m MARK MOGIRE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning javascript and c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @young_mmo on instagram...
+- 👀 A basketball player and tech enthusiast.
+- I'm currently pursuing Mathematics and computer science.
+- 🌱 I’m currently learning javascript and c++.
+- 💞️ I’m looking forward to collaborating with more developers.
+- 📫 You reach me @thee_mmo on instagram.
 
 <!---
 MOGIRE11/MOGIRE11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
