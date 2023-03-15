@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m  MOGIRE MARK
-- 👀 A Basketball player and into tech.
 - I'm currently pursuing BSC. Mathematics and computer science.
+- 👀 A Basketball player and into tech.
 - 🌱 I’m currently learning JS and Java.
 - 💞️ I’m looking forward to collaborating with more developers.
 - 📫 You reach me @thee_mmo on instagram.
