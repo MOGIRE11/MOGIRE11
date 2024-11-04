@@ -1,7 +1,5 @@
 - 👋 Hi there, I’m  MOGIRE MARK
 - I'm currently pursuing BSC. Mathematics and computer science.
-- 👀 A Basketball player and a techie.
-- 🌱 I’m currently exploring JavaScript.
 - 💞️ I’m looking forward to collaborating with other developers.
 
 <!---
