@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m  MOGIRE MARK
-- I'm currently pursuing BSC. Mathematics and computer science.
+- Bsc. Mathematics and computer science.
 - 💞️ I’m looking forward to collaborating with other developers.
 
 <!---
