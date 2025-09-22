@@ -1,6 +1,7 @@
 - 👋 Hi there, I’m  MOGIRE MARK
-- Bsc. Mathematics and computer science.
-- 💞️ I’m looking forward to collaborating with other developers.
+- Software Engineer and UI/UX designer
+  
+- I’m looking forward to collaborating with other developers.
 
 <!---
 MOGIRE11/MOGIRE11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
